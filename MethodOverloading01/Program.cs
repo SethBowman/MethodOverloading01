@@ -9,9 +9,6 @@ namespace SoloLearn
 {
 	class Program
 	{
-		//Create a method named Add, that accepts two integers and returns the sum of 
-		//those two integers
-
 		public static int Add(int num1, int num2)
 		{
 			return num1 + num2;
